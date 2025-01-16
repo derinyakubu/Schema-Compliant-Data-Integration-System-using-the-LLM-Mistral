@@ -1,0 +1,114 @@
+[
+  {
+    "record_id": 808656,
+    "method": "LLM",
+    "success": true,
+    "time": 11.204866647720337,
+    "stage": "main_multi_model_practitioners",
+    "error": null
+  },
+  {
+    "record_id": 678669,
+    "method": "LLM",
+    "success": true,
+    "time": 11.204866647720337,
+    "stage": "main_multi_model_practitioners",
+    "error": null
+  },
+  {
+    "record_id": 563242,
+    "method": "LLM",
+    "success": true,
+    "time": 11.204866647720337,
+    "stage": "main_multi_model_practitioners",
+    "error": null
+  },
+  {
+    "record_id": 386545,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 87267,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 796021,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 631422,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 915704,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 312067,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 722608,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 847694,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 615794,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 387550,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  },
+  {
+    "record_id": 20604,
+    "method": "Fallback",
+    "success": true,
+    "time": 30.141353932293978,
+    "stage": "main_multi_model_appointments",
+    "error": null
+  }
+]

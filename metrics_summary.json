@@ -1,0 +1,11 @@
+{
+  "Total Records": 14,
+  "Success Rate (%)": 100.0,
+  "Failure Rate (%)": 0.0,
+  "Fallback Usage Rate (%)": 78.57142857142857,
+  "LLM Success Rate (%)": 100.0,
+  "LLM Failure Rate (%)": 0.0,
+  "Average Time Per Record (s)": 26.08353522845676,
+  "Average LLM Time (s)": 11.204866647720337,
+  "Average Fallback Time (s)": 30.141353932293974
+}
